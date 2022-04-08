@@ -85,6 +85,6 @@ NOTE: The mysql-connector-java-5.1.47.jar should be placed in the same directory
 NOTE: Java version 6 / 8
 ```
 
-## Statement:
+## Statement
 
 The source code of this project is owned by me (Glenn Cai), and everyone is welcome to use it as a learning reference. I am not responsible for any plagiarism found for submitting any coursework using this code.
