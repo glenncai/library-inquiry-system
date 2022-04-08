@@ -4,6 +4,9 @@
 
 - [The Chinese University of Hong Kong, Computer Science Department](https://www.cse.cuhk.edu.hk/)
 
+## Demo
+https://user-images.githubusercontent.com/60476708/162378514-1120ab99-a1df-41d8-8b25-063d8f562275.mp4
+
 ## Three Roles
 
 - Administrator
